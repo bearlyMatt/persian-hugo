@@ -1,15 +1,8 @@
 ---
-title: "John Doe"
-image: ""
-email: "johndoe@parsian.com"
-social:
-- icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-  link : "#"
-- icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-  link : "#"
-- icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-  link : "#"
----
+title: Leonie Clark
+image: ''
+email: eskimo@eskibles.us
+social: []
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+---
+Leonie is the single best person in the world. She has a Bachelor's degree in Music, and is currently studying for her PGDE in Secondary Music Teaching. In her spare time she loves to consume Legend of Zelda games, stick her nose in a really good book, and of course look after her two cat-children and her s/o Matt.
